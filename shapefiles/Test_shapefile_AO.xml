@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Test_shapefile_title</title>
+                <onlink>https://docs.google.com/document/d/1x6ZIlRXAv63y1Dqnvr4BFdEwvtQ5XXgdaZNwj8C2Tek/edit</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This shapefile was added to the content pane on 4/18/2018. Testing to see what things look like when the data is overwritten.  Do changes made in panel show up in View Metadata without opening Editor first? I have made changes in the editor.  Now I have made changes in ArcCatalog.</abstract>
+            <purpose>This metadata is to test what happens to item level metadata when uploaded online directly from the Content Pane.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-5</westbc>
+                <eastbc>2</eastbc>
+                <northbc>6</northbc>
+                <southbc>-3</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>test</themekey>
+                <themekey>delete</themekey>
+                <themekey>item description metadata</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>CC BY</useconst>
+        <datacred>Credits go here.</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20180418</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
